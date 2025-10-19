@@ -1,0 +1,5 @@
+{
+  "name": "React User Authentication",
+  "description": "A complete user authentication flow including login, signup, dashboard, and profile pages, built with React, TypeScript, and Tailwind CSS. User data is persisted using localStorage.",
+  "requestFramePermissions": []
+}
